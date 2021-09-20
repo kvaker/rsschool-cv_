@@ -1,41 +1,55 @@
-Heading
+Vitali Kuntsevich
 =======
 
-Sub-heading
+Contacts
 -----------
 
-Paragraphs are separated 
-by a blank line.
+**email**: kvadesstudio@gmail.com  
+**web**: kvades.by  
+**Social network**:  
+**skype**: kva_kin
 
-Two spaces at the end of a line  
-produce a line break.
- Text attributes _italic_,
-**bold**, `monospace`. Some implementations may use *single-asterisks* for italic text.
 
-Horizontal rule:
+About
+-----------
+I’m applying to the program FED at the RS because I’m very interested in the idea of working and learning distance in teams with the another learners, school teachers and people who have a knowledge of coding and web developing.
+I believe my knowledge and skills will serve to allow me new experience with Java Script, HTML, CSS.
+My strengths are:
+   * creative
+   * disciplined/focused
+   * self-control  
+   * continuous Learning
 
----
+My code
+-----------
+```javascript
+const removeSmallest = (numbers) => {
+  const index = numbers.reduce((acc,cur,ind,arr) => cur < arr[acc] ? ind : acc, 0);
+  return numbers.filter((e, i) => i !== index);
+}
+```
 
-Strikethrough:
-~~strikethrough~~
-Bullet list:
+Education
+-----------
+1997-2002 (expected)
+:   **History&philology**; Polotsk State University (Polotsk)
 
-  * apples
-  * oranges
-  * pears
+2006-2011
+:   **Multimedia Art, Media and Design**; European Humanities University (Vilnius)  
 
-Numbered list:
 
-  1. lather
-  2. rinse
-  3. repeat
+Work experience
+-----------
+2008-2021: **Media and Design**; magazine "VB"    
 
-  An [example](http://example.com).
 
-![Image](Icon-pictures.png "icon")
+Project
+-----------
+An [my site](http://kvades.by).  
+An [freelance](http://ooopbk.by). 
 
-> Markdown uses email-style
-> characters for blockquoting.
-> Multiple paragraphs need to be prepended individually.
+Languages
+-----------
 
-Basic inline <abbr title="Hypertext Markup Language">HTML</abbr> may be supported.
+     * English (Intermediate: good theoretical knowledge, practical skills)
+     
